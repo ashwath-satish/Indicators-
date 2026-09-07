@@ -1,0 +1,12 @@
+{
+  "name": "Indicators−",
+  "short_name": "Indicators−",
+  "description": "A searchable reference for DECA performance indicators.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#fbfaf8",
+  "background_color": "#fbfaf8",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "48x48", "type": "image/x-icon" }
+  ]
+}

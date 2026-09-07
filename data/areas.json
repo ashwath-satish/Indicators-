@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Business Law",
+    "slug": "business-law",
+    "total": 69,
+    "categories": [
+      "entrepreneur",
+      "finance",
+      "hospitality",
+      "management",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Channel Management",
+    "slug": "channel-management",
+    "total": 14,
+    "categories": [
+      "entrepreneur",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Communication Skills",
+    "slug": "communication-skills",
+    "total": 71,
+    "categories": [
+      "entrepreneur",
+      "finance",
+      "hospitality",
+      "management",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Customer Relations",
+    "slug": "customer-relations",
+    "total": 58,
+    "categories": [
+      "entrepreneur",
+      "finance",
+      "hospitality",
+      "management",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Economics",
+    "slug": "economics",
+    "total": 51,
+    "categories": [
+      "entrepreneur",
+      "finance",
+      "hospitality",
+      "management",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Emotional Intelligence",
+    "slug": "emotional-intelligence",
+    "total": 100,
+    "categories": [
+      "entrepreneur",
+      "finance",
+      "hospitality",
+      "management",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Entrepreneurship",
+    "slug": "entrepreneurship",
+    "total": 43,
+    "categories": [
+      "entrepreneur",
+      "finance",
+      "hospitality",
+      "management",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Financial Analysis",
+    "slug": "financial-analysis",
+    "total": 259,
+    "categories": [
+      "entrepreneur",
+      "finance",
+      "hospitality",
+      "management",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Human Resources Management",
+    "slug": "human-resources-management",
+    "total": 72,
+    "categories": [
+      "entrepreneur",
+      "finance",
+      "hospitality",
+      "management",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Information Management",
+    "slug": "information-management",
+    "total": 242,
+    "categories": [
+      "entrepreneur",
+      "finance",
+      "hospitality",
+      "management",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Market Planning",
+    "slug": "market-planning",
+    "total": 27,
+    "categories": [
+      "entrepreneur",
+      "hospitality",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Marketing",
+    "slug": "marketing",
+    "total": 20,
+    "categories": [
+      "entrepreneur",
+      "finance",
+      "hospitality",
+      "management",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Marketing-Information Management",
+    "slug": "marketing-information-management",
+    "total": 103,
+    "categories": [
+      "entrepreneur",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Operations",
+    "slug": "operations",
+    "total": 369,
+    "categories": [
+      "entrepreneur",
+      "finance",
+      "hospitality",
+      "management",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Pricing",
+    "slug": "pricing",
+    "total": 11,
+    "categories": [
+      "entrepreneur",
+      "hospitality",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Product/Service Management",
+    "slug": "product-service-management",
+    "total": 85,
+    "categories": [
+      "entrepreneur",
+      "hospitality",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Professional Development",
+    "slug": "professional-development",
+    "total": 263,
+    "categories": [
+      "entrepreneur",
+      "finance",
+      "hospitality",
+      "management",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Promotion",
+    "slug": "promotion",
+    "total": 166,
+    "categories": [
+      "entrepreneur",
+      "hospitality",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Quality Management",
+    "slug": "quality-management",
+    "total": 7,
+    "categories": [
+      "management"
+    ]
+  },
+  {
+    "name": "Risk Management",
+    "slug": "risk-management",
+    "total": 28,
+    "categories": [
+      "entrepreneur",
+      "finance",
+      "management"
+    ]
+  },
+  {
+    "name": "Selling",
+    "slug": "selling",
+    "total": 109,
+    "categories": [
+      "entrepreneur",
+      "finance",
+      "hospitality",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Strategic Management",
+    "slug": "strategic-management",
+    "total": 34,
+    "categories": [
+      "entrepreneur",
+      "finance",
+      "hospitality",
+      "management",
+      "marketing"
+    ]
+  }
+]
